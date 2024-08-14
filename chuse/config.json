@@ -8,7 +8,7 @@
         "colorDetailADNum": "10",
         "cameraADNum": "10",
         "matchDetailADNum": "5",
-        "showRewardedADTip": "true",
-        "accountState": "false"
+        "showRewardedADTip": true,
+        "accountState": false
     }
 }
